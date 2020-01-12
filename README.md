@@ -1,3 +1,3 @@
 # CopyPasteCharacters
 
-An add free copy and paste character list.
+An ad free copy and paste character list.
